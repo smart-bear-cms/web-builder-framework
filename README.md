@@ -1,4 +1,4 @@
-# Web Builder SDK - Components - Name Modules
+# Web Builder Framework
 
 ## Contact & Support
 

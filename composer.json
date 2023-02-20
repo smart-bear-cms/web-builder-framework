@@ -1,15 +1,16 @@
 {
     "type": "library",
-    "name": "web-builder-sdk/web-module-x-name",
-    "description": "Platform: Web Builder SDK - Name Components by Hung Nguyen",
+    "name": "web-builder-sdk/framework",
+    "description": "Platform: Web Builder SDK - Web Builder Framework by Hung Nguyen",
     "keywords": [
+        "framework",
         "module",
         "components",
         "helper",
         "library",
         "php"
     ],
-    "homepage": "https://github.com/smart-bear-cms/web-module-x",
+    "homepage": "https://github.com/smart-bear-cms/web-builder-frameworkk",
     "license": "MIT",
     "minimum-stability": "stable",
     "authors": [
@@ -20,22 +21,11 @@
             "role": "Developer"
         }
     ],
-    "repositories": [
-        {
-            "type": "github",
-            "url": "https://github.com/smart-bear-cms/web-builder-core"
-        },
-        {
-            "type": "github",
-            "url": "https://github.com/smart-bear-cms/web-builder-data"
-        }
-    ],
     "require": {
         "php": "^5.6 || ^7.0 || ^8.0",
         "ext-pdo": "*",
         "ext-curl": "*",
-        "ext-json": "*",
-        "web-builder-sdk/core": "^1.0"
+        "ext-json": "*"
     },
     "require-dev": {
         "nguyenanhung/my-debug": "^3.0 || ^2.0 || ^1.0",
@@ -48,15 +38,14 @@
         "nguyenanhung/helpers": "^3.0 || ^2.0 || ^1.0",
         "nguyenanhung/seo": "^3.0 || ^2.0 || ^1.0",
         "nguyenanhung/vn-telco-phonenumber": "^3.0 || ^2.0 || ^1.0",
-        "nguyenanhung/validation": "^1.0",
         "nguyenanhung/web-builder-helper": "^2.0 || ^1.0",
         "nguyenanhung/web-builder-templates": "^2.0 || ^1.0",
         "nguyenanhung/web-builder-assets": "^1.0",
-        "web-builder-sdk/database": "^1.0"
+        "nguyenanhung/validation": "^1.0"
     },
     "autoload": {
         "psr-4": {
-            "nguyenanhung\\Platforms\\WebBuilderSDK\\ModuleXName\\Modules\\": "src/"
+            "nguyenanhung\\Platforms\\WebBuilderFramework\\System\\": "src/"
         }
     }
 }
