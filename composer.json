@@ -27,12 +27,13 @@
         "ext-curl": "*",
         "ext-json": "*",
         "nguyenanhung/framework": "^1.0",
-        "nguyenanhung/web-builder-helper": "^2.0 || ^1.0",
-        "nguyenanhung/web-builder-templates": "^2.0 || ^1.0",
-        "nguyenanhung/web-builder-assets": "^1.0"
+        "web-builder-sdk/helper": "^2.0 || ^1.0",
+        "web-builder-sdk/templates": "^2.0 || ^1.0",
+        "web-builder-sdk/assets": "^1.0"
     },
     "require-dev": {
         "nguyenanhung/vn-telco-phonenumber": "^3.0 || ^2.0 || ^1.0",
+        "nguyenanhung/basic-firewall": ">=1.0",
         "tramtro/make-some-noise": ">=1.0"
     },
     "autoload": {
