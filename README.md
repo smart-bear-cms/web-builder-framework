@@ -1,4 +1,10 @@
-[![Latest Stable Version](http://poser.pugx.org/web-builder-sdk/framework/v)](https://packagist.org/packages/web-builder-sdk/framework) [![Total Downloads](http://poser.pugx.org/web-builder-sdk/framework/downloads)](https://packagist.org/packages/web-builder-sdk/framework) [![Latest Unstable Version](http://poser.pugx.org/web-builder-sdk/framework/v/unstable)](https://packagist.org/packages/web-builder-sdk/framework) [![License](http://poser.pugx.org/web-builder-sdk/framework/license)](https://packagist.org/packages/web-builder-sdk/framework) [![PHP Version Require](http://poser.pugx.org/web-builder-sdk/framework/require/php)](https://packagist.org/packages/web-builder-sdk/framework)
+[![Latest Stable Version](https://img.shields.io/packagist/v/web-builder-sdk/framework.svg?style=flat-square)](https://packagist.org/packages/web-builder-sdk/framework)
+[![Total Downloads](https://img.shields.io/packagist/dt/web-builder-sdk/framework.svg?style=flat-square)](https://packagist.org/packages/web-builder-sdk/framework)
+[![Daily Downloads](https://img.shields.io/packagist/dd/web-builder-sdk/framework.svg?style=flat-square)](https://packagist.org/packages/web-builder-sdk/framework)
+[![Monthly Downloads](https://img.shields.io/packagist/dm/web-builder-sdk/framework.svg?style=flat-square)](https://packagist.org/packages/web-builder-sdk/framework)
+[![License](https://img.shields.io/packagist/l/web-builder-sdk/framework.svg?style=flat-square)](https://packagist.org/packages/web-builder-sdk/framework)
+[![PHP Version Require](https://img.shields.io/packagist/dependency-v/web-builder-sdk/framework/php)](https://packagist.org/packages/web-builder-sdk/framework)
+
 # Web Builder Framework
 
 ## Contact & Support
