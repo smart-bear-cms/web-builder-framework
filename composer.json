@@ -32,8 +32,8 @@
         "web-builder-sdk/assets": "^1.0"
     },
     "require-dev": {
-        "nguyenanhung/vn-telco-phonenumber": "^3.0 || ^2.0 || ^1.0",
         "nguyenanhung/basic-firewall": "^2.0 || ^1.0",
+        "nguyenanhung/vn-telco-phonenumber": "^3.0 || ^2.0 || ^1.0",
         "tramtro/make-some-noise": "^1.0"
     },
     "autoload": {
